@@ -107,6 +107,17 @@ tftp/
     ├── main.h          # Server header file
     └── makefile        # Build script for server
 ```
+## Sample Execution
+
+| Step | Terminal Output |
+|------|-----------------|
+| **1. CONNECT** | <img width="1920" height="1080" alt="tftp_1" src="https://github.com/user-attachments/assets/3ac0e2ed-3272-42f7-ad0d-31111032078f" /> |
+| **2. PUT FILE** | <img width="1920" height="1080" alt="tftp_2" src="https://github.com/user-attachments/assets/e7b75990-ea63-4ca6-a6ac-9cb495f7912f" /> |
+| **3. GET FILE** | <img width="1920" height="1080" alt="tftp_3" src="https://github.com/user-attachments/assets/e09c257f-8483-444e-b224-674fe7d52354" /> |
+| **4. GET FILE** | <img width="1920" height="1080" alt="tftp_4" src="https://github.com/user-attachments/assets/9beb28b9-a27e-413a-96c0-bcf44bb475b2" /> |
+| **5. MODE_CHANGE & HELP** | <img width="1920" height="1080" alt="tftp_5" src="https://github.com/user-attachments/assets/a326a03d-0310-41a4-bef9-0539b3936c6b" /> |
+| **6. EXIT** | <img width="1920" height="1080" alt="tftp_6" src="https://github.com/user-attachments/assets/b0244806-6dc8-4a5b-9e77-d208edd01daf" /> |
+| **7. SERVER** | <img width="1920" height="1080" alt="tftp_7" src="https://github.com/user-attachments/assets/b21a2e55-6a19-4838-ad5d-8886eb2a5377" /> |
 
 ## Contributing
 
